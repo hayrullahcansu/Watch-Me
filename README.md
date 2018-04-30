@@ -1,7 +1,7 @@
 # Watch Me  - Machine Learning Application
 
-Amaç: Android tabanlı cep telefonlarındaki uygulamaların kullanıcı tarafından ne yoğunlukta kullanıldığını tespit ederek ve sürekli veri tabanını güncel tutup kullanıcıya vereceği geri bildirimin optimim zamanını hesaplayarak kullanıcıya hatırlatmalarda bulunmak.
+The application records target user’s behaviors in the background and analyzes the recorded datas at specific times. 
+According to the results of analysis the user finds various suggestions as the application thinks the user can check instagram or usually, the user is setting an alarm at these hours, does the user want to set an alarm...
 
-Veritabanı:   SQLite
-Algoritma:    Geliştirdiğim bir hesaplama yöntemi. Verisetlerini temel mantıkta kümelere ayırıyor.
-Android:       Android Studio kullanılarak native java kodları ile yazıldı. 
+Database:  SQLite
+Algorithm: A clustering algorithm written by me.
